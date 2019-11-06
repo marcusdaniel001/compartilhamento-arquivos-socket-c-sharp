@@ -1,0 +1,9 @@
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.exe.config
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.exe
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.pdb
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csprojResolveAssemblyReference.cache
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.Properties.Resources.resources
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csproj.GenerateResource.Cache
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.exe
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.pdb
+c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.frmCliente.resources
