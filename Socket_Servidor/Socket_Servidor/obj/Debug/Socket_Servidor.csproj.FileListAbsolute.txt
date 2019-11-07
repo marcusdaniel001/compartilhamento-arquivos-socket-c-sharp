@@ -7,3 +7,13 @@ c:\users\mac\documents\visual studio 2013\Projects\Socket_Servidor\Socket_Servid
 c:\users\mac\documents\visual studio 2013\Projects\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.pdb
 c:\users\mac\documents\visual studio 2013\Projects\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.csprojResolveAssemblyReference.cache
 c:\users\mac\documents\visual studio 2013\Projects\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.frmServidor.resources
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\bin\Debug\Socket_Servidor.exe.config
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\bin\Debug\Socket_Servidor.exe
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\bin\Debug\Socket_Servidor.pdb
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.frmServidor.resources
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.Properties.Resources.resources
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.csproj.GenerateResource.Cache
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.csproj.CoreCompileInputs.cache
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.exe
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.pdb
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.csprojResolveAssemblyReference.cache

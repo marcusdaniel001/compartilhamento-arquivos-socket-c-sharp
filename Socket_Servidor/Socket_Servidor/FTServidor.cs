@@ -10,27 +10,19 @@ namespace Socket_Servidor
     {
         static IPEndPoint ipEnd_servidor;
         static Socket sock_Servidor;
-        public static string caminhoRecepcaoArquivos = @"M:\";
+        public static string caminhoRecepcaoArquivos = @"D:\Projetos\compartilhamento-arquivos-socket-dot-net\arquivos\";
         public static string mensagemServidor = "Serviço encerrado !!";
 
         public static void IniciarServidor()
         {
-            try
-            {
-                string strEnderecoIP = "192.168.1.11";
-                ipEnd_servidor = new IPEndPoint(IPAddress.Parse(strEnderecoIP), 5656);
-                sock_Servidor = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
-                sock_Servidor.Bind(ipEnd_servidor);
-            }
-            catch (Exception ex)
-            {
-                mensagemServidor = "Erro ao iniciar servidor : " + ex.Message;
-                return;
-            }
+            string strEnderecoIP = "127.0.0.1";
+            ipEnd_servidor = new IPEndPoint(IPAddress.Parse(strEnderecoIP), 5052);
+            sock_Servidor = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
+            sock_Servidor.Bind(ipEnd_servidor);
 
             try
             {
-                sock_Servidor.Listen(100);
+                sock_Servidor.Listen(1);
                 mensagemServidor = "Servidor em atendimento e aguardando para receber arquivo...";
                 Socket clienteSock = sock_Servidor.Accept();
                 clienteSock.ReceiveBufferSize = 16384;

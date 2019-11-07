@@ -7,3 +7,13 @@ c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente
 c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.exe
 c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.pdb
 c:\users\mac\documents\visual studio 2013\Projects\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.frmCliente.resources
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.exe.config
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.exe
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.pdb
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csprojResolveAssemblyReference.cache
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.frmCliente.resources
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.Properties.Resources.resources
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csproj.GenerateResource.Cache
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csproj.CoreCompileInputs.cache
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.exe
+D:\Projetos\compartilhamento-arquivos-socket-dot-net\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.pdb

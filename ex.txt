@@ -1,0 +1,1 @@
+essse arquivo e somente um exemplo para transferencia de arquivos utilizando socket

@@ -13,8 +13,8 @@ namespace Socket_Cliente
         {
             try
             {
-                   string strEnderecoIP = "192.168.1.11";
-                IPEndPoint ipEnd_cliente = new IPEndPoint(IPAddress.Parse(strEnderecoIP), 5656);
+                string strEnderecoIP = "127.0.0.1";
+                IPEndPoint ipEnd_cliente = new IPEndPoint(IPAddress.Parse(strEnderecoIP), 5052);
                 Socket clientSock_cliente = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
 
                 string caminhoArquivo = "";

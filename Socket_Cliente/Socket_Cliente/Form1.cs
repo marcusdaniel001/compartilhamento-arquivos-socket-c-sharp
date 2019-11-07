@@ -21,5 +21,10 @@ namespace Socket_Cliente
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void txtArquivo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
