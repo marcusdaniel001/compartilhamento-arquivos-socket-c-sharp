@@ -13,5 +13,7 @@ Abra a interface do client `Socket_Cliente.exe`
 Selecione o caminho do arquivo o qual voce quer fazer a transferencia
 Clique em Conectar com o servidor e transferir o arquivo
 
+O arquivo de resposta se encontrará na pasta de Arquivos presente no projeto
+
 ### Espero ajudar alguém assim como eu pesquisei sobre esse assunto
 ### TMJ <3
