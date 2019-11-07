@@ -6,7 +6,7 @@ Depois execute o .Exe que o mesmo gerou
 Para ultilizar o servidor execute os mesmos passos do client
 
 ### Testando a transferencia de arquivos
-Abra a interface do servidor `Socket_Servidor.exe``
+Abra a interface do servidor `Socket_Servidor.exe`
 Clique em Iniciar servidor de atendimento.
 
 Abra a interface do client `Socket_Cliente.exe`
