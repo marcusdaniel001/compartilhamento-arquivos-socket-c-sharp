@@ -15,5 +15,10 @@ namespace Socket_Servidor
             FTServidor.IniciarServidor();
             txtStatus.Text = FTServidor.mensagemServidor;
         }
+
+        private void frmServidor_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
